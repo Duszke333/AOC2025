@@ -3,3 +3,4 @@
 - Day 1 - Ruby
 - Day 2 - Python
 - Day 3 - Haskell
+- Day 4 - Java
